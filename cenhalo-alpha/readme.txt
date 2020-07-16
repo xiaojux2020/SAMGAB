@@ -1,4 +1,4 @@
-The files in this directory are tidal anisotropy alpha_1 and alpha_0.3 for the centrals or FOF haloes in Guo2011 SAM. 
+The files in this directory include tidal anisotropy alpha_1 and alpha_0.3 for the centrals or FOF haloes in Guo2011 SAM. 
 The columns are:
 1. galaxyID
 2. fofID
