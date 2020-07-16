@@ -1,7 +1,7 @@
 The files in this directory are mock galaxy catalogs created by the 7-parameter model in the paper.
 
 Mock centrals are in files with name "mockcen", and mock satellites are in files with name "mocksat".
-Mocks incoporated delta_1.25/delta_5/alpha_0.3_1.25 assembly effect are with the name "g125"/"g5"/"alpha03g125".
+Mocks incorporated delta_1.25/delta_5/alpha_0.3_1.25 assembly effect have the name "g125"/"g5"/"alpha03g125".
 
 The columns inside each file are:
 1. fofid: the ID of FOF halo in the N-body simulation.
